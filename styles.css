@@ -41,7 +41,7 @@ input, textarea {
 }
 
 button {
-    background-color: #333; /* Promeni boju dugmeta na tamniju */
+    background-color: #333; /* Promjeni boju dugmeta na tamniju */
     color: white;
     padding: 10px 15px;
     border: none;
@@ -53,7 +53,7 @@ button {
 }
 
 button:hover {
-    background-color: #555; /* Dodaj malo svetliju nijansu za hover efekat */
+    background-color: #555; /* Dodaj malo svijetliju nijansu za hover efekat */
 }
 
 .error {
